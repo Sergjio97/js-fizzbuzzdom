@@ -4,11 +4,9 @@ let f = "fizz";
 
 let b = "buzz";
 
-let x = f + b;
-
 for (i = 1; i <= 100; i++){
     if ((i % 3 == 0) && (i % 5 == 0)){
-        main.innerHTML += `<div class = "box red">${x}</div>`;
+        main.innerHTML += `<div class = "box red">${f + b}</div>`;
     } else if (i % 3 == 0){        
         main.innerHTML += `<div class = "box green">${f}</div>`;
     } else if (i % 5 == 0){
