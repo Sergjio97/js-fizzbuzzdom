@@ -9,6 +9,13 @@ h1 {
     margin-bottom: 50px;
 }
 
+p {
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    margin-top: 50px;
+}
+
 .container {
     width: 80%;
     margin: 0 auto;
