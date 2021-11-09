@@ -26,10 +26,10 @@ p {
 }
 
 .box {
-    width: 10%;
-    height: 60px;
+    width: 12%;
+    height: 90px;
     text-align: center;
-    line-height: 60px;
+    line-height: 90px;
     margin: 10px 10px;
     font-size: 20px;
 }
